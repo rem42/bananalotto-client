@@ -26,4 +26,4 @@ BananalottoClient.init(credential)
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frem42%2Fbananalotto-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frem42%2Fbananalotto-client?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frem42%2Fbananalotto-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frem42%2Fbananalotto-client?ref=badge_large) [![Greenkeeper badge](https://badges.greenkeeper.io/rem42/bananalotto-client.svg)](https://greenkeeper.io/)
