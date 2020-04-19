@@ -30,7 +30,7 @@
   "devDependencies": {
     "@types/chai": "^4.2.2",
     "@types/istanbul": "^0.4.30",
-    "@types/mocha": "^5.2.7",
+    "@types/mocha": "^7.0.0",
     "@types/node": "^12.7.4",
     "chai": "^4.2.0",
     "coveralls": "^3.0.6",
