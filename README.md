@@ -11,16 +11,17 @@ A client for bananalotto using node
 ```sh
 npm install bananalotto-client --save
 ```
+OR
+```sh
+yarn add bananalotto-client
+```
+
 ## Usage
 ### TypeScript
 ```typescript
-import {Credentials, BananalottoClient} from "bananalotto-client";
+import {Bananalotto} from "bananalotto-client";
 
-const credential = new Credentials();
-credential.email = 'email@email.com';
-credential.password = 'password';
-
-BananalottoClient.init(credential)
+Bananalotto.init('email@email.com', 'password')
 .then((client: BananalottoClient) => {
     // code
 });
