@@ -29,9 +29,11 @@
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.2.2",
+    "@types/cheerio": "^0.22.13",
     "@types/istanbul": "^0.4.30",
     "@types/mocha": "^7.0.0",
     "@types/node": "^13.13.2",
+    "@types/tough-cookie": "^4.0.0",
     "chai": "^4.2.0",
     "coveralls": "^3.0.6",
     "gh-pages": "^2.1.1",
@@ -44,7 +46,9 @@
     "typescript": "^3.6.2"
   },
   "dependencies": {
-    "@types/cheerio": "^0.22.13",
-    "cheerio": "^1.0.0-rc.3"
+    "axios": "^0.21.0",
+    "axios-cookiejar-support": "^1.0.1",
+    "cheerio": "^1.0.0-rc.3",
+    "tough-cookie": "^4.0.0"
   }
 }

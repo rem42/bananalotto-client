@@ -45,6 +45,6 @@ export class CookieExtractor {
         return cookieList.join('; ');
     }
     private static readonly useFullCookies: string[] = [
-        'PHPSESSID', 'uid', 'pid', 'cid',
+        'PHPSESSID', 'uid', 'pid', 'cid', 'cnil'
     ];
 }
