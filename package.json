@@ -32,7 +32,7 @@
     "@types/cheerio": "^0.22.13",
     "@types/istanbul": "^0.4.30",
     "@types/mocha": "^7.0.0",
-    "@types/node": "^14.14.12",
+    "@types/node": "^15.12.4",
     "@types/tough-cookie": "^4.0.0",
     "chai": "^4.2.0",
     "coveralls": "^3.0.6",
