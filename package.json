@@ -48,7 +48,7 @@
   "dependencies": {
     "axios": "^0.21.0",
     "axios-cookiejar-support": "^1.0.1",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0",
     "tough-cookie": "^4.0.0"
   }
 }
